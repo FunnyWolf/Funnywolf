@@ -12,7 +12,6 @@ class PenetrationTestingEngineer:
             "Penetration Testing",
             "Hacker tool development",
         ]
-        self.wechat = "eGlhb2Zlbmd6aXNoaXNodWk="
         
 ```
 
