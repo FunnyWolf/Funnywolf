@@ -1,21 +1,3 @@
-
-```python
-
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class PenetrationTestingEngineer:
-    def __init__(self):
-        self.name = "Funnywolf"
-        self.role = "Penetration Testing Engineer"
-        self.knowledge_base = [
-            "Penetration Testing",
-            "Hacker tool development",
-        ]
-        
-```
-
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
