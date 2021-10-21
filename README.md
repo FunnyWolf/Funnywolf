@@ -24,6 +24,10 @@
 
 ## ✨ Articles
 
+[如何在MSF中高效的使用云函数](https://mp.weixin.qq.com/s/jAxp-LVb8ac7QphFyTGNOg)
+
+[隐形的翅膀:MSF使用DNS隧道上线](https://www.anquanke.com/post/id/255625)
+
 [如何改造MSF Meterpreter如CS Beacon一样稳定](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247486452&idx=1&sn=d7f03f0c5c2b74761dc96ec0f45aa26d&chksm=96f41499a1839d8f780e0ed9064ddd6b03ba7fa3134ef27c53aa7db78c1d5ecdab5b3e6eeeb1&mpshare=1&scene=1&srcid=0528WSc0ANUilaVGlKzZFRj9&sharer_sharetime=1622182315557&sharer_shareid=d3f8815414c11c2ab7332d42d6c9ef3e&exportkey=AcVpq58TeJpOo9vBL%2BvBHwI%3D&pass_ticket=mFLZrvMIrcrnBBwQOB8rcHcdVItDAYkrfgjAYulbrivV%2BVaQ5iQ7GiLL5qiVP3Ak&wx_header=0#rd)
 
 [源海拾贝 | Viper - 半自动化内网信息收集](https://www.anquanke.com/post/id/231501)
