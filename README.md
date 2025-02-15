@@ -23,6 +23,9 @@
 </a>
 
 ## ✨ Articles
+[智能纪元:AI大模型驱动的红队攻击技术](https://www.freebuf.com/geek/412347.html)
+
+[智能纪元:AI大模型驱动的红队攻击技术 (二)](https://xz.aliyun.com/news/15685)
 
 [如何在MSF中高效的使用云函数](https://mp.weixin.qq.com/s/jAxp-LVb8ac7QphFyTGNOg)
 
