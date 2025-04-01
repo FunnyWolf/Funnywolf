@@ -24,10 +24,6 @@
 
 ## ✨ Articles
 
-[msf execute-assembly VS CoabltStrike execute-assembly](https://www.anquanke.com/post/id/220456)
-
-[MSF sleep与CobaltStrike sleep](https://www.anquanke.com/post/id/216363)
-
 [Intelligent Era: Red Team Attack Technology Driven by AI Large Models](https://www.freebuf.com/geek/412347.html)
 
 [Intelligent Era: Red Team Attack Technology Driven by AI Large Models (Part 2)](https://xz.aliyun.com/news/15685)
