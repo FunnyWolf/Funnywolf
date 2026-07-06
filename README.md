@@ -1,27 +1,3 @@
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
-
-## 🗂️ Highlight Projects
-<a href="https://github.com/FunnyWolf/Viper">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FunnyWolf&repo=Viper&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Viper" />
-</a>
-<a href="https://github.com/FunnyWolf/pystinger">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FunnyWolf&repo=pystinger&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="pystinger" />
-</a>
-<a href="https://github.com/FunnyWolf/agentic-soc-platform">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FunnyWolf&repo=agentic-soc-platform&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="agentic-soc-platform" />
-</a>
-<a href="https://github.com/FunnyWolf/TFirewall">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FunnyWolf&repo=TFirewall&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TFirewall" />
-</a>
-
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/FunnyWolf/Funnywolf">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FunnyWolf&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="FunnyWolf's GitHub Stats" />
