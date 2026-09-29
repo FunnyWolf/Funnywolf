@@ -1,8 +1,3 @@
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/FunnyWolf/Funnywolf">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FunnyWolf&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="FunnyWolf's GitHub Stats" />
-</a>
-
 ## ✨ Articles
 
 [Intelligent Era: Red Team Attack Technology Driven by AI Large Models](https://www.freebuf.com/geek/412347.html)
